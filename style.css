@@ -1,0 +1,38 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+nav ul {
+    list-style: none;
+    display: inline;
+}
+
+nav li {
+    display: inline-block;
+}
+
+section {
+    display: flex;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#headline {
+    justify-content: center;
+    background-color: red;
+}
+
+#main {
+    justify-content: space-between;
+    background-color: aqua;
+}
+
+#contact {
+    justify-content: space-around;
+    background-color: blueviolet;
+}
